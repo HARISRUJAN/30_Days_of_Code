@@ -24,4 +24,4 @@ print(i+int_1)
 print(d+dou_1)
 print(s+str_1)
 # Concatenate and print the String variables on a new line
-# The 's' variable above should be printed first.
+# The 's' variable above should be printed first
